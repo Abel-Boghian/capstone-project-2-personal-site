@@ -5,7 +5,7 @@ body { margin: 0; font-family: system-ui, Arial, sans-serif; }
     min-height: 100vh;
     display: flex;
     gap: 24px;
-    padding: 32px;
+    padding: 32px; 
     align-items: center;
     justify-content: space-between;
     background-color: #e4f9f5;
@@ -42,4 +42,5 @@ body { margin: 0; font-family: system-ui, Arial, sans-serif; }
 
 .laptop {
     max-width: 400px;
+
 }
